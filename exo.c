@@ -25,11 +25,6 @@ return 0;
 if(M%2!=0){
         cpt2++;
 }
-if(M<0){
-    s2+=M;
-}
 printf("le nombre d'entier impaire est %d ",cpt2);
-printf("la somme des nombres %d",s2);
 
 }
-
